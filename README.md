@@ -9,6 +9,7 @@ REST API that works with a "data" source of questions and answers.
 - Work with static data and testing code module without using a web server
 - Use Postman to test web server routes
 
-[Code module file](p4-module.js) with 6 different functions to retrieve different values within the object of the data questions.
+[Code module file](p4-module.js) with 6 different functions to retrieve different values within the object of the data questions.  
+[Github repo](https://github.com/Jiah-design/cit281-p4)
 
 

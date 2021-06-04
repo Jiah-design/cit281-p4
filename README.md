@@ -11,4 +11,5 @@ REST API that works with a "data" source of questions and answers.
 
 [Code module file](https://github.com/Jiah-design/cit281-p4/blob/main/p4-module.js) with 6 different functions to retrieve different values within the object of the data questions.
 
-
+GET response on Postman  
+![Screenshot](PostmanGetResponse.png)
